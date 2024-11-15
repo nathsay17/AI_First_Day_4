@@ -5,18 +5,19 @@ tint = """
             color: white;
         }
         .dataframe tbody tr th, .dataframe tbody tr td {
-            background-color: rgba(255, 255, 255, 0.3);  /* White background with 30% opacity */
-            color: white;  /* Set text color to white for better contrast */
+            background-color: rgba(255, 255, 255, 0.3) !important;  /* White background with 30% opacity */
+            color: white !important;  /* Set text color to white for better contrast */
         }
         .dataframe thead {
-            background-color: rgba(255, 255, 255, 0.5);  /* Header background with 50% opacity */
+            background-color: rgba(255, 255, 255, 0.5) !important;  /* Header background with 50% opacity */
         }
         .dataframe {
-            border: 2px solid rgba(255, 255, 255, 0.3); /* Transparent border */
-            border-radius: 10px;
+            border: 2px solid rgba(255, 255, 255, 0.3) !important; /* Transparent border */
+            border-radius: 10px !important;
         }
     </style>
 """
+
 
 
 def apply_background(image_base64):
