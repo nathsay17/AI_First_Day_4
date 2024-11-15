@@ -78,6 +78,8 @@ if options == "Home":
 elif options == "Data Set":
     st.markdown(apply_background(bg2), unsafe_allow_html=True)
     st.markdown('<h1 class="outlined-text"></h1>', unsafe_allow_html=True)
+    dataframed = pd.read_csv('logistics2.csv')
+    st.dataframe(dataframed)
 
 elif options == "Talk to Eve":
     st.markdown(apply_background(bg3), unsafe_allow_html=True)
