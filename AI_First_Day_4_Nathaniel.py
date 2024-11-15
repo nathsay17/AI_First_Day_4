@@ -22,7 +22,7 @@ from background import apply_background
 
 warnings.filterwarnings("ignore")
 
-st.set_page_config(page_title="AI First Chatbot Template", page_icon="", layout="wide")
+st.set_page_config(page_title="Eve", page_icon="🤖", layout="wide")
 
 #Background
 def get_base64_image(image_path):
