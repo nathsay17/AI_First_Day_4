@@ -1,5 +1,5 @@
 home_string = """
-<h2 class="outlined-text">Welcome to <strong>WallEve</strong>—your intelligent logistics assistant!</h2>
+<h2 class="outlined-text">Welcome to WallEve —your intelligent logistics assistant!</h2>
 
 <p class="outlined-text">
     <span style="font-size: 32px;">Meet <strong>Eve</strong>, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.</span>
