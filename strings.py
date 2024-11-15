@@ -10,10 +10,10 @@ home_string = """
 </p>
 
 <ul class="outlined-text">
-    <li><span style="font-size: 32px;">Track your parcels and get real-time updates on location and estimated delivery dates.</span></li>
-    <li><span style="font-size: 32px;">Understand delivery statuses with simple, easy-to-follow explanations.</span></li>
-    <li><span style="font-size: 32px;">Get shipping cost estimates based on the weight, dimensions, and destination of your package.</span></li>
-    <li><span style="font-size: 32px;">Resolve delivery delays by quickly providing updates and the next steps.</span></li>
+    <li><span style="font-size: 28px;">Track your parcels and get real-time updates on location and estimated delivery dates.</span></li>
+    <li><span style="font-size: 28px;">Understand delivery statuses with simple, easy-to-follow explanations.</span></li>
+    <li><span style="font-size: 28px;">Get shipping cost estimates based on the weight, dimensions, and destination of your package.</span></li>
+    <li><span style="font-size: 28px;">Resolve delivery delays by quickly providing updates and the next steps.</span></li>
 </ul>
 
 <p class="outlined-text">
