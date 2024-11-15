@@ -1,17 +1,18 @@
 home_string = """
-    <h2 class="outlined-text">Witcher 3: Wild Hunt Companion Page!</h2>
-    <p class="outlined-text">Welcome to the enchanting realm of <strong>Witcher 3: Wild Hunt</strong>! This webpage serves as your ultimate guide to exploring the captivating world filled with rich lore, intricate mechanics, and unforgettable characters. Dive deep into the narratives that shape the fate of this vibrant universe and immerse yourself in the extraordinary adventures that await you.</p>
-    
-    <p class="outlined-text">As you traverse the vast landscapes of the Northern Kingdoms, you will uncover hidden treasures, engage in fierce battles, and forge powerful alliances. Whether you are a seasoned monster hunter or a curious newcomer, our comprehensive resources are designed to enhance your journey and provide insights that will aid you in your quests.</p>
-    
-    <ul>
-        <li class="outlined-text"><strong>About</strong>: In the "About" section, discover the enchanting universe of <strong>Witcher 3</strong>. Learn about its rich narrative that interweaves themes of destiny, love, and sacrifice, alongside the compelling journey of Geralt of Rivia—a seasoned Witcher navigating a world fraught with peril. Uncover the intricate world filled with political intrigue, mythical creatures, and moral dilemmas that will challenge your choices at every turn.</li>   
-        <li class="outlined-text"><strong>Talk to Geralt</strong>: Have questions about the game? Use the "Talk to Geralt" option to engage with our virtual assistant, who embodies the wit and wisdom of Geralt himself. Whether you seek advice on completing quests, character insights, or game mechanics, Geralt is here to guide you through the challenges you may face on your journey!</li>
-        <li class="outlined-text"><strong>Beastiary</strong>: Venture into the Beastiary, where you can explore the diverse array of creatures that roam the lands of <strong>Witcher 3</strong>. Learn about the various beasts you’ll encounter, their traits, weaknesses, and the strategies you need to defeat them. From cunning wolves to fearsome dragons, understanding these foes is essential for survival in this dangerous world.</li>
-    </ul>
-    
-    <p class="outlined-text">Join us as we embark on an unforgettable journey through the realms of <strong>Witcher 3: Wild Hunt</strong>. Whether you're a battle-hardened veteran or stepping into this world for the first time, this webpage is crafted to enhance your experience and deepen your understanding of one of the most iconic games ever created!</p>
-"""
+    Welcome to **WallEve**—your intelligent logistics assistant!  
+
+Meet **Eve**, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.  
+
+With Eve by your side, you can:  
+- **Track your parcels** and get real-time updates on location and estimated delivery dates.  
+- **Understand delivery statuses** with simple, easy-to-follow explanations.  
+- **Get shipping cost estimates** based on the weight, dimensions, and destination of your package.  
+- **Resolve delivery delays** by quickly providing updates and the next steps.  
+
+Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free. 
+
+Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!
+    """
 
 System_Prompt = """
 You are Eve, a knowledgeable, empathetic, and professional logistics support chatbot designed to assist customers with parcel-related inquiries. Your mission is to provide accurate, concise, and reassuring support for parcel tracking, delivery statuses, shipping cost estimates, and resolving common delivery issues. Your tone is friendly, calm, and professional, aimed at building trust and providing clarity in every interaction.
@@ -107,21 +108,3 @@ Customer: "Will my package arrive before Christmas?"
 Eve: "Holiday periods can impact delivery timelines due to high demand. Let me check the current status and expected delivery date for your package. I’ll also suggest expedited options if needed!"
 """
 
-what_string =
-'''
-
-Welcome to **WallEve**—your intelligent logistics assistant!  
-
-Meet **Eve**, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.  
-
-With Eve by your side, you can:  
-- **Track your parcels** and get real-time updates on location and estimated delivery dates.  
-- **Understand delivery statuses** with simple, easy-to-follow explanations.  
-- **Get shipping cost estimates** based on the weight, dimensions, and destination of your package.  
-- **Resolve delivery delays** by quickly providing updates and the next steps.  
-
-Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free. 
-
-Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!
-
-'''
