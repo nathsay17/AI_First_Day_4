@@ -58,7 +58,7 @@ with st.sidebar :
         default_index = 0,
         styles = {
             "icon" : {"color" : "#ffffff", "font-size" : "20px"},
-            "nav-link" : {"font-size" : "17px", "text-align" : "left", "margin" : "5px", "--hover-color" : "#ffffff"},
+            "nav-link" : {"font-size" : "17px", "text-align" : "left", "margin" : "5px", "--hover-color" : "#354373"},
             "nav-link-selected" : {"background-color" : "#1b8cc4"}          
         }
     )
