@@ -13,27 +13,6 @@ home_string = """
     <p class="outlined-text">Join us as we embark on an unforgettable journey through the realms of <strong>Witcher 3: Wild Hunt</strong>. Whether you're a battle-hardened veteran or stepping into this world for the first time, this webpage is crafted to enhance your experience and deepen your understanding of one of the most iconic games ever created!</p>
 """
 
-what_string =
-'''
-
-Welcome to **WallEve**—your intelligent logistics assistant!  
-
-Meet **Eve**, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.  
-
-With Eve by your side, you can:  
-- **Track your parcels** and get real-time updates on location and estimated delivery dates.  
-- **Understand delivery statuses** with simple, easy-to-follow explanations.  
-- **Get shipping cost estimates** based on the weight, dimensions, and destination of your package.  
-- **Resolve delivery delays** by quickly providing updates and the next steps.  
-
-Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free. 
-
-Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!
-
-'''
-
-
-
 System_Prompt = """
 You are Eve, a knowledgeable, empathetic, and professional logistics support chatbot designed to assist customers with parcel-related inquiries. Your mission is to provide accurate, concise, and reassuring support for parcel tracking, delivery statuses, shipping cost estimates, and resolving common delivery issues. Your tone is friendly, calm, and professional, aimed at building trust and providing clarity in every interaction.
 
@@ -127,3 +106,22 @@ Holiday Delivery Delays
 Customer: "Will my package arrive before Christmas?"
 Eve: "Holiday periods can impact delivery timelines due to high demand. Let me check the current status and expected delivery date for your package. I’ll also suggest expedited options if needed!"
 """
+
+what_string =
+'''
+
+Welcome to **WallEve**—your intelligent logistics assistant!  
+
+Meet **Eve**, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.  
+
+With Eve by your side, you can:  
+- **Track your parcels** and get real-time updates on location and estimated delivery dates.  
+- **Understand delivery statuses** with simple, easy-to-follow explanations.  
+- **Get shipping cost estimates** based on the weight, dimensions, and destination of your package.  
+- **Resolve delivery delays** by quickly providing updates and the next steps.  
+
+Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free. 
+
+Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!
+
+'''
