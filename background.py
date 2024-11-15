@@ -15,7 +15,7 @@ def apply_background(image_base64):
             1px -1px 0 #000,
             -1px 1px 0 #000,
             1px 1px 0 #000; 
-        font-size: 24px;
+        font-size: 30px;
     }}
     </style>
     '''
