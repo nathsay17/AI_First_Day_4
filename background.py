@@ -4,14 +4,14 @@ tint = """
             font-size: 16px;
             color: white;
         }
-        .dataframe tbody tr th, .dataframe tbody tr td {
+        .custom-table tbody tr th, .custom-table tbody tr td {
             background-color: rgba(255, 255, 255, 0.3) !important;  /* White background with 30% opacity */
             color: white !important;  /* Set text color to white for better contrast */
         }
-        .dataframe thead {
+        .custom-table thead {
             background-color: rgba(255, 255, 255, 0.5) !important;  /* Header background with 50% opacity */
         }
-        .dataframe {
+        .custom-table {
             border: 2px solid rgba(255, 255, 255, 0.3) !important; /* Transparent border */
             border-radius: 10px !important;
         }
