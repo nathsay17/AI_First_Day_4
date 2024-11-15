@@ -18,7 +18,7 @@ def apply_background(image_base64):
         font-size: 32px;
     }}
     ul.outlined-text {{
-        font-size: 28px;
+        font-size: 2px;
     }}
     </style>
     '''
