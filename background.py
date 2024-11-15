@@ -9,12 +9,12 @@ def apply_background(image_base64):
         background-attachment: fixed;
     }}
     .outlined-text {{
-        color: white;
+        color: #3b718f;
         text-shadow: 
-            -1px -1px 0 #3b718f,  
-            1px -1px 0 #3b718f,
-            -1px 1px 0 #3b718f,
-            1px 1px 0 #3b718f; 
+            -1px -1px 0 #ffffff,  
+            1px -1px 0 #ffffff,
+            -1px 1px 0 #ffffff,
+            1px 1px 0 #ffffff; 
         font-size: 32px;
     }}
     </style>
