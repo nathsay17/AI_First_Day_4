@@ -18,7 +18,7 @@ import warnings
 from streamlit_option_menu import option_menu
 from streamlit_extras.mention import mention
 from strings import home_string, System_Prompt
-from background import apply_background
+from background import apply_background,tint
 
 warnings.filterwarnings("ignore")
 
@@ -78,6 +78,7 @@ if options == "Home":
 elif options == "Data Set":
     st.markdown(apply_background(bg2), unsafe_allow_html=True)
     st.markdown('<h1 class="outlined-text"></h1>', unsafe_allow_html=True)
+    st.markdown(tint, unsafe_allow_html=True)
     dataframed = pd.read_csv('WallEve_dataset.csv')
     st.dataframe(dataframed)
 
