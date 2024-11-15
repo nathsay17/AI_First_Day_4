@@ -18,6 +18,12 @@ def apply_background(image_base64):
         font-size: 32px;
     }}
     .outlined-text ul, .outlined-text li {{
+        color: white;
+        text-shadow: 
+            -1px -1px 0 #000,  
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;        
         font-size: 32px;
     }}
     </style>
