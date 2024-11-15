@@ -1,18 +1,22 @@
 home_string = """
-    Welcome to **WallEve**—your intelligent logistics assistant!  
+<h2 class="outlined-text">Welcome to <strong>WallEve</strong>—your intelligent logistics assistant!</h2>
 
-Meet **Eve**, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.  
+<p class="outlined-text">Meet <strong>Eve</strong>, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.</p>
 
-With Eve by your side, you can:  
-- **Track your parcels** and get real-time updates on location and estimated delivery dates.  
-- **Understand delivery statuses** with simple, easy-to-follow explanations.  
-- **Get shipping cost estimates** based on the weight, dimensions, and destination of your package.  
-- **Resolve delivery delays** by quickly providing updates and the next steps.  
+<p class="outlined-text">With Eve by your side, you can:</p>
 
-Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free. 
+<ul>
+    <li class="outlined-text"><strong>Track your parcels</strong> and get real-time updates on location and estimated delivery dates.</li>
+    <li class="outlined-text"><strong>Understand delivery statuses</strong> with simple, easy-to-follow explanations.</li>
+    <li class="outlined-text"><strong>Get shipping cost estimates</strong> based on the weight, dimensions, and destination of your package.</li>
+    <li class="outlined-text"><strong>Resolve delivery delays</strong> by quickly providing updates and the next steps.</li>
+</ul>
 
-Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!
-    """
+<p class="outlined-text">Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free.</p>
+
+<p class="outlined-text">Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!</p>
+"""
+
 
 System_Prompt = """
 You are Eve, a knowledgeable, empathetic, and professional logistics support chatbot designed to assist customers with parcel-related inquiries. Your mission is to provide accurate, concise, and reassuring support for parcel tracking, delivery statuses, shipping cost estimates, and resolving common delivery issues. Your tone is friendly, calm, and professional, aimed at building trust and providing clarity in every interaction.
