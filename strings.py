@@ -1,21 +1,30 @@
 home_string = """
 <h2 class="outlined-text">Welcome to <strong>WallEve</strong>—your intelligent logistics assistant!</h2>
 
-<p class="outlined-text">Meet <strong>Eve</strong>, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.</p>
+<p class="outlined-text">
+    <span style="font-size: 32px;">Meet <strong>Eve</strong>, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.</span>
+</p>
 
-<p class="outlined-text">With Eve by your side, you can:</p>
+<p class="outlined-text">
+    <span style="font-size: 32px;">With Eve by your side, you can:</span>
+</p>
 
-<ul>
-    <li class="outlined-text"><strong>Track your parcels</strong> and get real-time updates on location and estimated delivery dates.</li>
-    <li class="outlined-text"><strong>Understand delivery statuses</strong> with simple, easy-to-follow explanations.</li>
-    <li class="outlined-text"><strong>Get shipping cost estimates</strong> based on the weight, dimensions, and destination of your package.</li>
-    <li class="outlined-text"><strong>Resolve delivery delays</strong> by quickly providing updates and the next steps.</li>
+<ul class="outlined-text">
+    <li><span style="font-size: 32px;">Track your parcels and get real-time updates on location and estimated delivery dates.</span></li>
+    <li><span style="font-size: 32px;">Understand delivery statuses with simple, easy-to-follow explanations.</span></li>
+    <li><span style="font-size: 32px;">Get shipping cost estimates based on the weight, dimensions, and destination of your package.</span></li>
+    <li><span style="font-size: 32px;">Resolve delivery delays by quickly providing updates and the next steps.</span></li>
 </ul>
 
-<p class="outlined-text">Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free.</p>
+<p class="outlined-text">
+    <span style="font-size: 32px;">Eve is designed to provide accurate, concise, and reassuring support, making sure you’re informed and confident every step of the way. No matter the inquiry, Eve’s here to ensure your logistics experience is seamless and stress-free.</span>
+</p>
 
-<p class="outlined-text">Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!</p>
+<p class="outlined-text">
+    <span style="font-size: 32px;">Let Eve help you navigate the world of parcels and deliveries—just ask, and she’ll take care of the rest!</span>
+</p>
 """
+
 
 
 System_Prompt = """
