@@ -79,8 +79,10 @@ elif options == "Data Set":
     st.markdown(apply_background(bg2), unsafe_allow_html=True)
     st.markdown('<h1 class="outlined-text"></h1>', unsafe_allow_html=True)
     st.markdown(tint, unsafe_allow_html=True)
+    
     dataframed = pd.read_csv('WallEve_dataset.csv')
-    st.dataframe(dataframed)
+    html_table = dataframed.to_html(classes='custom-table', escape=False)
+    st.markdown(html_table, unsafe_allow_html=True)
 
 elif options == "Talk to Eve":
     st.markdown(apply_background(bg3), unsafe_allow_html=True)
