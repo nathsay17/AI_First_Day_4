@@ -1,5 +1,5 @@
 home_string = """
-<h2 class="outlined-text" style="color: black; font-size: 40px;">
+<h2 class="outlined-text" style="color: #3b718f; font-size: 40px;">
     Welcome to WallEve —your intelligent logistics assistant!
 </h2>
 
@@ -7,7 +7,7 @@ home_string = """
     <span style="font-size: 32px;">Meet <strong>Eve</strong>, a friendly and knowledgeable AI chatbot dedicated to providing real-time support for all your parcel and shipping inquiries. Whether you're tracking a package, checking on a delivery delay, or calculating shipping costs, Eve is here to guide you with clarity and confidence.</span>
 </p>
 
-<p class="outlined-text" style="color: black">
+<p class="outlined-text" style="color: #3b718f">
     <span style="font-size: 32px;">With Eve by your side, you can:</span>
 </p>
 
