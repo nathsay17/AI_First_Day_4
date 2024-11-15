@@ -2,7 +2,7 @@ def apply_background(image_base64):
     return f'''
     <style>
     .stApp {{
-        background-image: url("data:image/jpg;base64,{image_base64}");
+        background-image: url("data:image/jpg;base64,{image_base64}"); 
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
@@ -16,6 +16,9 @@ def apply_background(image_base64):
             -1px 1px 0 #000,
             1px 1px 0 #000; 
         font-size: 32px;
+    }}
+    ul.outlined-text {{
+        font-size: 32px;  /* Ensure the list items are included */
     }}
     </style>
     '''
