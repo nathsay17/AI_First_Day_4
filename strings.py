@@ -1,6 +1,6 @@
 home_string = """
     <h2 class="outlined-text">Witcher 3: Wild Hunt Companion Page!</h2>
-    <p class="outlined-text">Welcome to the enchanting realm of <strong>Witcher 3: Wild Hunt</strong>! This webpage serves as your ultimate guide to \nexploring the captivating world filled with rich lore, intricate mechanics, and unforgettable characters. Dive deep into the narratives that shape the fate of this vibrant universe and immerse yourself in the extraordinary adventures that await you.</p>
+    <p class="outlined-text">Welcome to the enchanting realm of <strong>Witcher 3: Wild Hunt</strong>! This webpage serves as your ultimate guide to exploring the captivating world filled with rich lore, intricate mechanics, and unforgettable characters. Dive deep into the narratives that shape the fate of this vibrant universe and immerse yourself in the extraordinary adventures that await you.</p>
     
     <p class="outlined-text">As you traverse the vast landscapes of the Northern Kingdoms, you will uncover hidden treasures, engage in fierce battles, and forge powerful alliances. Whether you are a seasoned monster hunter or a curious newcomer, our comprehensive resources are designed to enhance your journey and provide insights that will aid you in your quests.</p>
     
