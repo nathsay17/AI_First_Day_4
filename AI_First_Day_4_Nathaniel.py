@@ -85,7 +85,6 @@ elif options == "Talk to Eve":
     st.markdown(apply_background(bg3), unsafe_allow_html=True)
     st.markdown('<h1 class="outlined-text">Talk to Eve</h1>', unsafe_allow_html=True)
     st.markdown('<h2 class="outlined-text">In this segment, you can talk to Eve (AI generated). You may ask anything related to the Logistics or Supply Chain". </h2>', unsafe_allow_html=True)
-    dataframed = pd.read_csv('https://raw.githubusercontent.com/ALGOREX-PH/Day-4-AI-First-Dataset-Live/refs/heads/main/Parcel_Information_Dataset.csv')
     dataframed['combined'] = dataframed.apply(lambda row : ' '.join(row.values.astype(str)), axis = 1)
     documents = dataframed['combined'].tolist()
     embeddings = [get_embedding(doc, engine = "text-embedding-3-small") for doc in documents]
